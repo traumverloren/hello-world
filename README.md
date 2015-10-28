@@ -7,3 +7,5 @@ A collection of posts and videos and activities that gets me excited about codin
 * [Blogs/Posts](blogs.md)
 
 Wanna add your favorites?
+
+hi, it's just a test
